@@ -10,7 +10,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 
 <p align="center">
-    <img src="https://people.eecs.berkeley.edu/~bmild/nerf/fern_200k_256w.gif">
+    <img src="https://user-images.githubusercontent.com/11364490/79932648-f8a1e680-8488-11ea-98fe-c11ec22fc8a1.gif">
 </p>
 
 <h4 align="center"> 
@@ -22,6 +22,8 @@
 > ### _Any contributions are much appreciated!_ :hugs:
 
 ## :man_teacher: Learning Resources
+
+- ### [Awesome NeRF](https://github.com/yenchenlin/awesome-NeRF)
 
 - ### [Neural Ray Tracing](https://github.com/princeton-computational-imaging/neural_raytracing)
 
