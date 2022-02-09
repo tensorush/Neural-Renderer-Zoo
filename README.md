@@ -23,11 +23,9 @@
 
 ## :books: Notebooks (coming soon...)
 
-## :man_teacher: Learning Resources
+## :man_scientist: Prominent Research
 
 - ### :man_technologist: [Awesome NeRF](https://github.com/yenchenlin/awesome-NeRF)
-
-- ### :man_technologist: [Neural Ray Tracing](https://github.com/princeton-computational-imaging/neural_raytracing)
 
 - ### :man_technologist: [NeRF Visualization Library](https://github.com/sxyu/nerfvis)
 
@@ -38,9 +36,15 @@
 - ### :tv: [3D Representations Reading Group](https://yenchenlin.me/3D-representation-reading/)
 
 - ### :tv: [Neural Rendering MIT Lecture by Chuan Li](https://www.youtube.com/watch?v=BCZ56MU-KhQ&t=1764s)
+
 - ### :card_file_box: [3D Reconstruction with Deep Learning Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods)
 
 - ### :thought_balloon: [NeRF Explosion 2020 Blogpost by Frank Dellaert](https://dellaert.github.io/NeRF/)
+
+- ### :memo: [Advances in Neural Rendering 2021 Review Article](https://arxiv.org/pdf/2111.05849.pdf)
+
+- ### :card_file_box: [Neural Fields in Visual Computing Paper Database](https://brownvc.github.io/neural-fields-review/)
+
 - ### :tv: [Advances in Neural Rendering SIGGRAPH 2021 Course](https://www.neuralrender.com/)
 
 <!-- MARKDOWN LINKS -->
