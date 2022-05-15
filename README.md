@@ -39,7 +39,7 @@
 
 - ### :card_file_box: [3D Reconstruction with Deep Learning Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods)
 
-- ### :thought_balloon: [NeRF Explosion 2020 Blogpost by Frank Dellaert](https://dellaert.github.io/NeRF/)
+- ### :thought_balloon: [NeRF Explosion 2020 Blog Post by Frank Dellaert](https://dellaert.github.io/NeRF/)
 
 - ### :memo: [Advances in Neural Rendering 2021 Review Article](https://arxiv.org/pdf/2111.05849.pdf)
 
