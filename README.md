@@ -13,7 +13,7 @@
     <img src="https://user-images.githubusercontent.com/11364490/79932648-f8a1e680-8488-11ea-98fe-c11ec22fc8a1.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://www.matthewtancik.com/nerf">Animation from NeRF</a></p>
 </h4>
 
@@ -29,6 +29,8 @@
 
 - ### :man_technologist: [NeRF Visualization Library](https://github.com/sxyu/nerfvis)
 
+- ### :card_file_box: [Awesome Neural Renderers List](https://github.com/stars/tensorush/lists/awesome-neural-renderers)
+
 - ### :card_file_box: [Awesome Neural Rendering List](https://github.com/weihaox/awesome-neural-rendering)
 
 - ### :card_file_box: [Awesome 3D Reconstruction List](https://github.com/openMVG/awesome_3DReconstruction_list)
@@ -42,6 +44,7 @@
 - ### :thought_balloon: [NeRF Explosion 2020 Blog Post by Frank Dellaert](https://dellaert.github.io/NeRF/)
 
 - ### :memo: [Advances in Neural Rendering 2021 Review Article](https://arxiv.org/pdf/2111.05849.pdf)
+
 
 - ### :card_file_box: [Neural Fields in Visual Computing Paper Database](https://brownvc.github.io/neural-fields-review/)
 
